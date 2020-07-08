@@ -228,4 +228,10 @@ return [
 
     ],
 
+    return [
+    // ...
+    'log' => 'errorlog',
+    // ...
+];
+
 ];
