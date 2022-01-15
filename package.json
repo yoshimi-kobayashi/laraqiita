@@ -24,7 +24,7 @@
         "vue-template-compiler": "^2.6.11"
     },
     "dependencies": {
-        "marked": "^1.1.0",
+        "marked": "^4.0.10",
         "yargs-parser": "^18.1.3"
     }
 }
